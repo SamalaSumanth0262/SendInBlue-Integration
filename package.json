@@ -62,7 +62,7 @@
     "mongoose": "^5.4.12",
     "morgan": "^1.9.1",
     "mysql2": "^1.6.4",
-    "node-sass": "4.11.0",
+    "node-sass": "4.13.1",
     "nodemon": "^1.18.9",
     "postcss-loader": "3.0.0",
     "postcss-preset-env": "6.5.0",
